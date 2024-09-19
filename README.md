@@ -1,8 +1,8 @@
 # Welcome to your Ryde app 👋
 
-![alt text](assets/images/Screenshot_20240916-140344.jpg)![alt text](assets/images/Screenshot_20240916-142539.jpg)
-
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+![alt text](assets/images/Screenshot_20240919-120446.jpg)![alt text](assets/images/Screenshot_20240916-142539.jpg)
 
 ## Get started
 
