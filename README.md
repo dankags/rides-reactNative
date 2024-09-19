@@ -31,11 +31,11 @@ You can find some of the API key in this URLs
    -> this helps in showing an image of your recent last traveland many more.</br>
    -> You can check out the documentation on the above link
 
- 2. for the googleApiKey visit [googleConsole](https://console.cloud.google.com/)/n  
+ 2. for the googleApiKey visit [googleConsole](https://console.cloud.google.com/)</br>
    -> it helps in geting the longitude and latitude whenever ou search for a place to go.
 
- 3. For clerk visit [clerk](https://clerk.com/) 
-   -> Clerk is used tohandle the authetication prt of your app.
+ 3. For clerk visit [clerk](https://clerk.com/) </br>
+   -> Clerk is used tohandle the authetication prt of your app.</br>
    ->You can go signUp and register our app to get the ApiKey that you can use for your app.
 
 
