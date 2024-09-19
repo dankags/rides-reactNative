@@ -6,18 +6,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-3. copy this variables needed for the project in your .env file:</br>
+1. copy this variables needed for the project in your .env file:</br>
    -> Ensure you provide your own api keys</br>
    ```bash
     EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=
@@ -41,6 +30,17 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
        ->You can go signUp and register our app to get the ApiKey that you can use for your app.
     4. for data base i used [neonDB](https://neon.tech/) which is a severless postgress database you can checkout this link 
 
+2. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+3. Start the app
+
+   ```bash
+    npx expo start
+   ```
 
 In the output, you'll find options to open the app in a
 
