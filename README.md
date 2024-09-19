@@ -15,16 +15,16 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
-3. copy the .env variables needed for the project :
-   -> Ensure you provide your own api keys
-```bash
+3. copy the .env variables needed for the project :</br>
+   -> Ensure you provide your own api keys</br>
+   ```bash
     EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=
     DATABASE_URL=
     <!-- the server url can be your domain name -->
     EXPO_PUBLIC_SERVER_URL=
     EXPO_PUBLIC_GEOAPIFY_API_KEY=
     EXPO_PUBLIC_GOOGLE_API_KEY=
-```
+   ```
 
 You can find some of the API key in this URLs
  1. for the Geoapify [geoapify](https://www.geoapify.com/) </br>
