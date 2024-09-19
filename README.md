@@ -39,6 +39,7 @@ You can find some of the API key in this URLs
  3. For clerk visit [clerk](https://clerk.com/) </br>
    -> Clerk is used tohandle the authetication prt of your app.</br>
    ->You can go signUp and register our app to get the ApiKey that you can use for your app.
+ 4. for data base i used [neonDB](https://neon.tech/) which is a severless postgress database you can checkout this link 
 
 
 In the output, you'll find options to open the app in a
