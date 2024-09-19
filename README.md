@@ -28,18 +28,18 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     EXPO_PUBLIC_GOOGLE_API_KEY=
    ```
 
-### You can find some of the API key in this URLs
- 1. for the Geoapify [geoapify](https://www.geoapify.com/) </br>
-   -> this helps in showing an image of your recent last traveland many more.</br>
-   -> You can check out the documentation on the above link
+   ### You can find some of the API key in this URLs
+    1. for the Geoapify [geoapify](https://www.geoapify.com/) </br>
+       -> this helps in showing an image of your recent last traveland many more.</br>
+       -> You can check out the documentation on the above link
 
- 2. for the googleApiKey visit [googleConsole](https://console.cloud.google.com/)</br>
-   -> it helps in geting the longitude and latitude whenever ou search for a place to go.
+    2. for the googleApiKey visit [googleConsole](https://console.cloud.google.com/)</br>
+       -> it helps in geting the longitude and latitude whenever ou search for a place to go.
 
- 3. For clerk visit [clerk](https://clerk.com/) </br>
-   -> Clerk is used tohandle the authetication prt of your app.</br>
-   ->You can go signUp and register our app to get the ApiKey that you can use for your app.
- 4. for data base i used [neonDB](https://neon.tech/) which is a severless postgress database you can checkout this link 
+    3. For clerk visit [clerk](https://clerk.com/) </br>
+       -> Clerk is used tohandle the authetication prt of your app.</br>
+       ->You can go signUp and register our app to get the ApiKey that you can use for your app.
+    4. for data base i used [neonDB](https://neon.tech/) which is a severless postgress database you can checkout this link 
 
 
 In the output, you'll find options to open the app in a
