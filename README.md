@@ -15,6 +15,27 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+3. copy the .env variables needed for the project :
+   -> Ensure you provide your own api keys
+```bash
+    EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=
+    DATABASE_URL=
+    <!-- the server url can be your domain name -->
+    EXPO_PUBLIC_SERVER_URL=
+    EXPO_PUBLIC_GEOAPIFY_API_KEY=
+    EXPO_PUBLIC_GOOGLE_API_KEY=
+```
+
+You can find some of the API key in this URLs
+ 1. for the Geoapify [geoapify](https://www.geoapify.com/) 
+   -> this helps in showing an image of your recent last traveland many more.
+   -> You can check out the documentation on the above link
+ 2. for the googleApiKey visit [googleConsole](https://console.cloud.google.com/)  
+   -> it helps in geting the longitude and latitude whenever ou search for a place to go.
+ 3. For clerk visit [clerk](https://clerk.com/) 
+   -> Clerk is used tohandle the authetication prt of your app.
+   ->You can go signUp and register our app to get the ApiKey that you can use for your app.
+
 
 In the output, you'll find options to open the app in a
 
