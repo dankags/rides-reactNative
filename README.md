@@ -17,7 +17,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
-3. copy the .env variables needed for the project :</br>
+3. copy this variables needed for the project in your .env file:</br>
    -> Ensure you provide your own api keys</br>
    ```bash
     EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=
@@ -28,7 +28,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     EXPO_PUBLIC_GOOGLE_API_KEY=
    ```
 
-You can find some of the API key in this URLs
+### You can find some of the API key in this URLs
  1. for the Geoapify [geoapify](https://www.geoapify.com/) </br>
    -> this helps in showing an image of your recent last traveland many more.</br>
    -> You can check out the documentation on the above link
