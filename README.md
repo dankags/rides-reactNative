@@ -27,8 +27,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ```
 
 You can find some of the API key in this URLs
- 1. for the Geoapify [geoapify](https://www.geoapify.com/) /n
-   -> this helps in showing an image of your recent last traveland many more./n
+ 1. for the Geoapify [geoapify](https://www.geoapify.com/) </br>
+   -> this helps in showing an image of your recent last traveland many more.</br>
    -> You can check out the documentation on the above link
 
  2. for the googleApiKey visit [googleConsole](https://console.cloud.google.com/)/n  
