@@ -16,7 +16,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     EXPO_PUBLIC_GEOAPIFY_API_KEY=
     EXPO_PUBLIC_GOOGLE_API_KEY=
    ```
-
+[text](types/type.d.ts)
    ### You can find some of the API key in this URLs
     1. for the Geoapify [geoapify](https://www.geoapify.com/) </br>
        -> this helps in showing an image of your recent last traveland many more.</br>
